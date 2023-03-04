@@ -11,7 +11,7 @@
 	}
 </script>
 
-<article class="day-content grid grid-cols-[30%,70%] space-x-3">
+<article class="day-content grid grid-cols-[30%,70%] space-x-6">
 	<img src={image} alt="no alt text supported" class="object-cover" />
 	<div class="day-content__body flex flex-col">
 		<h2 class="font-semibold text-lg text-orange-600">Pizza</h2>
