@@ -6,7 +6,7 @@
 	<ul class="days flex flex-col">
 		<li><Day day="monday" next={true} /></li>
 		<li><Day day="tuesday" /></li>
-		<li><Day day="wednesday" last={true} /></li>
+		<li><Day day="wednesday" /></li>
+		<li><Day day="friday" last={true} /></li>
 	</ul>
 </main>
-
